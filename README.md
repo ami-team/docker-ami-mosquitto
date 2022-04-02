@@ -1,3 +1,4 @@
+[![][Build Status img]][Build Status]
 [![][License img]][License]
 
 <a href="http://lpsc.in2p3.fr/" target="_blank">
@@ -29,6 +30,9 @@ Developers
 ==========
 
 * [Jérôme ODIER](https://annuaire.in2p3.fr/4121-4467/jerome-odier) ([CNRS/LPSC](http://lpsc.in2p3.fr/))
+
+[Build Status]:https://github.com/ami-team/docker-ami-mosquitto/actions/workflows/docker-image.yml
+[Build Status img]:https://github.com/ami-team/docker-ami-mosquitto/actions/workflows/docker-image.yml/badge.svg
 
 [License]:http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.txt
 [License img]:https://img.shields.io/badge/license-CeCILL-blue.svg
