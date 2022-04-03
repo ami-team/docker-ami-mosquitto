@@ -24,7 +24,7 @@
 AMI Mosquitto Server
 ====================
 
-???
+The last Mosquitto image with [IP and JWT](https://github.com/odier-io/mosquitto-ip-jwt-auth) authentication support.
 
 Developers
 ==========
